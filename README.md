@@ -3,7 +3,7 @@ Level Up is a fully responsive, elegant, and modern website designed for an incl
 
 **Link to project:** https://level-u.netlify.app/
 
-![alt tag](https://u.cubeupload.com/rzagramonte/1b4levelupGitHub.png)
+![landing page of Level Up](https://u.cubeupload.com/rzagramonte/1b4levelupGitHub.png)
 
 ## How It's Made:
 
